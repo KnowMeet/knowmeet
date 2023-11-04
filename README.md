@@ -1,5 +1,6 @@
 
-![Black Minimalist Motivation Quote LinkedIn Banner (1)](https://github.com/KnowMeet/knowmeet/assets/132848900/349032c7-d161-43a0-9505-e299501fd220)
+![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/KnowMeet/knowmeet/assets/132848900/8bdbc9ba-dd90-45ee-bac3-d792323cdb87)
+
 
 <h1 align="center">Hi, I'm Meet!</h1>
 <h3 align="center">A Cloud Engineer from Canada</h3>
